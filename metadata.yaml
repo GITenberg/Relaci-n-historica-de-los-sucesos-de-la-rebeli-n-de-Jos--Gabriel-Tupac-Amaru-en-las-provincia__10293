@@ -1,0 +1,27 @@
+_repo: Relaci-n-historica-de-los-sucesos-de-la-rebeli-n-de-Jos--Gabriel-Tupac-Amaru-en-las-provincia__10293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10293'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F3401'
+- !lcsh 'Peru -- History -- Insurrection of Tupac Amaru, 1780-1781'
+- GITenberg
+title: Relación historica de los sucesos de la rebelión de José Gabriel Tupac-Amaru
+  en las provincias del Peru, el año de 1780
+url: http://www.gutenberg.org/ebooks/10293
